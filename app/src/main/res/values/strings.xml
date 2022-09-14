@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OTP</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">We will send you an one time OTP on this given mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="_91">+91</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="todo">TODO</string>
+    <string name="otp_verification_">OTP verification</string>
+    <string name="verfiy">Verfiy</string>
+    <string name="todo1">TODO</string>
+    <string name="please_enter_otp_sent_to_your_mobile_number">Please enter OTP sent to your Mobile Number</string>
+    <string name="did_t_receive_otp">Did\'t receive OTP ?</string>
+    <string name="send_otp_again">Send OTP again</string>
+    <string name="welcome_to_dashboard">Welcome To Dashboard</string>
+    <string name="todo2">TODO</string>
+</resources>

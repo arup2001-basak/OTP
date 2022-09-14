@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423216045112",
+    "project_id": "otplogin-52ff2",
+    "storage_bucket": "otplogin-52ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423216045112:android:7c1b7aa763843fd5c19acd",
+        "android_client_info": {
+          "package_name": "com.mayo.otpLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423216045112-1ehi6ddsvhc4h70t2lm0ukmca959ahes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayo.otpLogin",
+            "certificate_hash": "e5f63bd4fcaa4d34f062c3bf42d27a01a33bd34c"
+          }
+        },
+        {
+          "client_id": "423216045112-a17kpj9mm6heo5vj9h1iodavqb7h3hgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklrf5Yqe9zLAthsiEcNKuIWGokLjk2ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423216045112-a17kpj9mm6heo5vj9h1iodavqb7h3hgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
